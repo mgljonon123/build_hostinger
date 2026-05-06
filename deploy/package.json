@@ -1,0 +1,12 @@
+{
+  "name": "nanobana-hostinger",
+  "version": "1.0.0",
+  "description": "Nanobana - Hostinger Deployment",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site - no start needed'"
+  },
+  "keywords": ["react", "hostinger", "static"],
+  "author": "",
+  "license": "MIT"
+}
